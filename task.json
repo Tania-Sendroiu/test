@@ -1,0 +1,12 @@
+{
+  "tasks":   [{"TaskID":"1",
+   "TaskName":"Example task",
+   "TaskDescription":"Example task description",
+   "PointsPerUnit":1
+  },
+  {"TaskID":"2",
+   "TaskName":"Example task 2",
+   "TaskDescription":"Second Description",
+   "PointsPerUnit":2}],
+  "message": "Available tasks received successfully."
+}
