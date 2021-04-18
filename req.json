@@ -1,0 +1,7 @@
+{
+  "workID": "1234",
+  "input": {
+  "array": [3,2,5,1,4]
+  },
+  "message": "Work sent successfully."
+}
